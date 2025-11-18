@@ -3,7 +3,7 @@
 A powerful .NET 8 Azure Function microservice that brings AI-powered food recognition to the PantryChef ecosystem. This serverless API acts as the intelligent "brain" behind our revolutionary AI-Powered Pantry feature, seamlessly connecting the PantryChef Android app with Azure's cutting-edge Computer Vision technology.
 
 [![.NET 8](https://img.shields.io/badge/.NET-8-blueviolet?style=for-the-badge&logo=dotnet)](https://dotnet.microsoft.com/)
-[![Visual Studio 2022](https://img.shields.io/badge/Visual_Studio-2022-purple?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/)
+[![Visual Studio 2026](https://img.shields.io/badge/Visual_Studio-2026-purple?style=for-the-badge&logo=visualstudio)](https://visualstudio.microsoft.com/)
 [![Azure Functions](https://img.shields.io/badge/Azure-Functions-0078d4?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/services/functions/)
 [![AI Vision](https://img.shields.io/badge/Azure-AI_Vision-00bcf2?style=for-the-badge&logo=microsoftazure)](https://azure.microsoft.com/services/cognitive-services/computer-vision/)
 
