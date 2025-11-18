@@ -99,6 +99,10 @@ To run this project, you will need to set up both the required Azure resources a
 
 6. You will need two values: **`KEY 1`** and the **`Endpoint`**. Copy these to a safe place.
 
+**Example of Implementation:**
+
+![Images/Computer_Vision.png](Images/Computer_Vision.png)
+
 ### 💻 Running Locally
 
 1. **Clone the Repository:**
@@ -203,6 +207,10 @@ To deploy this function to a public Azure endpoint, follow these steps:
     - In the Function App menu, go to **API** > **CORS**.
 
     - Add the URLs of your client applications. For testing purposes, you can add `*`, but for production, you should restrict this to your specific client domains.
+
+**Example of Implementation:**
+
+![Images/Function.png](Images/Function.png)
 
 ## 🔌 API Usage
 
